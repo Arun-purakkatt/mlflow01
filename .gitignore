@@ -130,3 +130,9 @@ dmypy.json
 
 # environment
 env/
+
+#mlruns
+mlruns/
+
+#temporry folder
+temp/
